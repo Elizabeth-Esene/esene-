@@ -1,8 +1,7 @@
-streamlit>=1.32.0
-joblib==1.3.2
-pandas
-numpy
-scikit-learn
+streamlit==1.550
+pandas==2.3.3
+numpy==2.4.3
+joblib
+altair==6.0.0
 matplotlib
-altair==4.2.2
 reportlab
